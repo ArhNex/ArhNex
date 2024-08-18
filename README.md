@@ -6,6 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = 50 height = 50></img>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width = 50 height = 50></img>
