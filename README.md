@@ -29,3 +29,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArhNex)](https://git.io/streak-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Arhnex?theme=light&font=Texturina)
+
