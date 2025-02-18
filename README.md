@@ -11,6 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width = 50 height = 50></img>
+
+  
 </div>
 
 ## Contacts
