@@ -17,12 +17,6 @@
   
 </div>
 
-## Contacts
- 
-<a href = "https://t.me/LordOfArh">
-  <img align="center" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge/">
-</a>
-
 ---
 
 <a href="https://github.com/ArhNex">
